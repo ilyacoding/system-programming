@@ -1,0 +1,18 @@
+﻿  Lab2Table.cpp
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(202): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(212): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(213): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(220): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(226): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(227): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(232): warning C4244: 'return': conversion from 'LONG' to 'float', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(255): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(256): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(257): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(258): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(258): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(268): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab2table\lab2table\lab2table.cpp(272): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Lab2Table.vcxproj -> C:\Users\IlyaCoding\iCloudDrive\Desktop\OSiSP\Lab2Table\Debug\Lab2Table.exe
+  Lab2Table.vcxproj -> C:\Users\IlyaCoding\iCloudDrive\Desktop\OSiSP\Lab2Table\Debug\Lab2Table.pdb (Partial PDB)
