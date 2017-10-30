@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Lab1.cpp
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab1\lab1\lab1.cpp(217): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab1\lab1\lab1.cpp(228): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  DrawingObject.cpp
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab1\lab1\drawingobject.cpp(139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab1\lab1\drawingobject.cpp(140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab1\lab1\drawingobject.cpp(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab1\lab1\drawingobject.cpp(142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab1\lab1\drawingobject.cpp(135): warning C4101: 'delta': unreferenced local variable
+  DirectionalVector.cpp
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab1\lab1\directionalvector.cpp(9): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+c:\users\ilyacoding\iclouddrive\desktop\osisp\lab1\lab1\lab1.cpp(245): warning C4715: 'OnCommand': not all control paths return a value
+  Lab1.vcxproj -> C:\Users\IlyaCoding\iCloudDrive\Desktop\OSiSP\Lab1\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\IlyaCoding\iCloudDrive\Desktop\OSiSP\Lab1\Debug\Lab1.pdb (Partial PDB)
