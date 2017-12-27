@@ -1,0 +1,111 @@
+[2017.11.20 19:49:10] Launched version: 1001023, alpha: [FALSE], beta: 0, debug mode: [FALSE], test dc: [FALSE]
+[2017.11.20 19:49:10] Executable dir: C:/Users/IlyaCoding/Documents/Lab3/Debug/, name: Telegram.exe
+[2017.11.20 19:49:10] Initial working dir: C:/Users/IlyaCoding/Documents/Lab3/Debug/
+[2017.11.20 19:49:10] Working dir: C:/Users/IlyaCoding/Documents/Lab3/Debug/
+[2017.11.20 19:49:10] Command line: C:\Users\IlyaCoding\Documents\Lab3\Debug\Telegram.exe
+[2017.11.20 19:49:10] Executable path before check: C:/Users/IlyaCoding/Documents/Lab3/Debug/Telegram.exe
+[2017.11.20 19:49:10] Logs started
+[2017.11.20 19:49:10] Connecting local socket to Global\4b43074e20b49d65055ca07664e8eec7-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2017.11.20 19:49:10] This is the only instance of Telegram, starting server and app...
+[2017.11.20 19:49:10] Moved logging from 'log_start0.txt' to 'C:/Users/IlyaCoding/Documents/Lab3/Debug/log.txt'!
+[2017.11.20 19:49:10] Opened 'C:/Users/IlyaCoding/Documents/Lab3/Debug/tdata/working' for reading, the previous Telegram Desktop launch was not finished properly :( Crash log size: 240
+[2017.11.20 19:49:18] App Info: reading settings...
+[2017.11.20 19:49:18] App Info: reading encrypted settings...
+[2017.11.20 19:49:18] Lang Info: Loaded cached, keys: 1487
+[2017.11.20 19:49:18] Lang Error: Unknown key 'lng_channel_admin_sure'
+[2017.11.20 19:49:18] Lang Error: Unknown key 'lng_context_remove_admin'
+[2017.11.20 19:49:18] OpenAL Logging Level: (not set)
+[2017.11.20 19:49:18] Audio Playback Devices: OpenAL Soft
+[2017.11.20 19:49:18] Audio Playback Default Device: OpenAL Soft
+[2017.11.20 19:49:18] Audio Capture Devices: OpenAL Soft on РљРѕРјРїР°РєС‚-РґРёСЃРє (Parallels Audio Controller)
+[2017.11.20 19:49:18] Audio Capture Default Device: OpenAL Soft on РљРѕРјРїР°РєС‚-РґРёСЃРє (Parallels Audio Controller)
+[2017.11.20 19:49:18] App Info: reading map...
+[2017.11.20 19:49:18] App Info: reading encrypted map...
+[2017.11.20 19:49:18] App Info: reading encrypted user settings...
+[2017.11.20 19:49:18] App Info: encrypted user settings read.
+[2017.11.20 19:49:18] App Info: reading encrypted mtp data...
+[2017.11.20 19:49:18] MTP Info: read keys, current: 1, to destroy: 0
+[2017.11.20 19:49:18] Map read time: 15
+[2017.11.20 19:49:18] Window Shadow: 1, 1, 1, 1, 1, 2, 4, 7, 10, 14, 20, 25, 31, 37
+[2017.11.20 19:49:34] Config Error: Bad data size 0 required 344
+[2017.11.20 19:49:34] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:49:34] Config Error: Bad data size 0 required 344
+[2017.11.20 19:49:38] Config Error: Bad data size 0 required 344
+[2017.11.20 19:49:38] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:49:38] Config Error: Bad data size 0 required 344
+[2017.11.20 19:49:50] Config Error: Bad data size 0 required 344
+[2017.11.20 19:49:50] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:49:50] Config Error: Bad data size 0 required 344
+[2017.11.20 19:49:54] Config Error: Bad data size 0 required 344
+[2017.11.20 19:49:54] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:49:54] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:06] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:06] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:50:06] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:10] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:10] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:50:10] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:22] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:22] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:50:22] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:26] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:26] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:50:26] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:38] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:38] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:50:38] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:41] App Error: could not get current version (update check): 2
+[2017.11.20 19:50:46] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:46] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:50:46] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:54] Config Error: Bad data size 0 required 344
+[2017.11.20 19:50:54] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:50:54] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:02] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:02] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:51:02] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:10] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:10] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:51:10] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:18] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:18] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:51:18] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:26] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:26] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:51:26] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:34] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:34] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:51:34] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:42] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:42] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:51:42] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:50] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:50] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:51:50] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:58] Config Error: Bad data size 0 required 344
+[2017.11.20 19:51:58] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:51:58] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:06] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:06] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:52:06] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:14] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:14] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:52:14] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:22] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:22] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:52:22] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:30] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:30] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:52:30] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:38] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:38] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:52:38] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:46] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:46] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:52:46] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:54] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:54] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:52:54] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:57] Config Error: Bad data size 0 required 344
+[2017.11.20 19:52:57] Config Error: Failed to parse dns response JSON, error: illegal value
+[2017.11.20 19:52:57] Config Error: Bad data size 0 required 344

@@ -1,0 +1,10 @@
+﻿  Lab4.cpp
+c:\users\ilyacoding\documents\lab4\lab4\lab4.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\ilyacoding\documents\lab4\lab4\lab4.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\ilyacoding\documents\lab4\lab4\lab4.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\ilyacoding\documents\lab4\lab4\lab4.cpp(135): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  ThreadsHandler.cpp
+  Lab4.vcxproj -> C:\Users\IlyaCoding\Documents\Lab4\Debug\Lab4.exe
+  Lab4.vcxproj -> C:\Users\IlyaCoding\Documents\Lab4\Debug\Lab4.pdb (Partial PDB)
