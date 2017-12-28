@@ -1,0 +1,4 @@
+﻿  Lab_5_2_Config.cpp
+c:\users\станислав\desktop\осисп\лабы\5\lab_5_config\lab_5_2_config\lab_5_2_config.cpp(13): warning C4005: DRIVER_NAME: изменение макроопределения
+  c:\users\станислав\desktop\осисп\лабы\5\lab_5_config\lab_5_2_config\common.h(4): note: см. предыдущее определение "DRIVER_NAME"
+  Lab_5_2_Config.vcxproj -> C:\Users\Станислав\Desktop\ОСиСП\Лабы\5\Lab_5_Config\Debug\Lab_5_2_Config.exe

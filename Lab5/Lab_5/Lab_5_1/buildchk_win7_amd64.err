@@ -1,0 +1,4 @@
+1>errors in directory c:\users\╤Єрэшёырт\desktop\╬╤ш╤╧\╦рс√\5\lab_5\lab_5_1
+1>c:\users\станислав\desktop\осисп\лабы\5\lab_5\lab_5_1\driver.c(181) : error C2371: 'PIMAGE_NT_HEADERS' : redefinition; different basic types
+1>c:\users\станислав\desktop\осисп\лабы\5\lab_5\lab_5_1\driver.c(468) : error C2037: left of 'OptionalHeader' specifies undefined struct/union '_IMAGE_NT_HEADERS64'
+1>link : error LNK1181: cannot open input file 'c:\users\╤Єрэшёырт\desktop\╬╤ш╤╧\╦рс√\5\lab_5\lab_5_1\objchk_win7_amd64\amd64\driver.obj'

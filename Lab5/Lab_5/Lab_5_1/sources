@@ -1,0 +1,7 @@
+TARGETNAME=Lab_5_1
+TARGETTYPE=DRIVER
+TARGETPATH=obj
+ 
+INCLUDES=C:\WinDDK\7600.16385.1\inc
+
+SOURCES=Driver.c ProcessWatcher.c DriverFunctions.c
