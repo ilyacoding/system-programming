@@ -1,0 +1,4 @@
+1>warnings in directory c:\users\╤Єрэшёырт\desktop\╬╤ш╤╧\╦рс√\5\lab_5\lab_5_1
+1>c:\users\станислав\desktop\осисп\лабы\5\lab_5\lab_5_1\driver.c(359) : warning C4996: 'ExAllocatePool': was declared deprecated
+1>c:\users\станислав\desktop\осисп\лабы\5\lab_5\lab_5_1\driver.c(402) : warning C4996: 'ExAllocatePool': was declared deprecated
+1>c:\users\станислав\desktop\осисп\лабы\5\lab_5\lab_5_1\driver.c(491) : warning C4996: 'ExAllocatePool': was declared deprecated

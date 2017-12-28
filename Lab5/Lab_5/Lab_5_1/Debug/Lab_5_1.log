@@ -1,0 +1,14 @@
+﻿  Building 'Lab_5_1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\Lab_5_1.inf [Version] section with DriverVer=11/27/2017,23.5.5.927
+  Driver.c
+Driver.c(81): error C2220: предупреждение обработано как ошибка - файл "object" не создан
+Driver.c(81): warning C4201: нестандартное расширение: структура (объединение) без имени
+Driver.c(82): warning C4201: нестандартное расширение: структура (объединение) без имени
+Driver.c(87): warning C4201: нестандартное расширение: структура (объединение) без имени
+Driver.c(315): warning C4100: SystemArgument2: неиспользованный формальный параметр
+Driver.c(315): warning C4100: SystemArgument1: неиспользованный формальный параметр
+Driver.c(324): warning C4100: SystemArgument2: неиспользованный формальный параметр
+Driver.c(324): warning C4100: SystemArgument1: неиспользованный формальный параметр
+Driver.c(324): warning C4100: NormalContext: неиспользованный формальный параметр
+Driver.c(324): warning C4100: NormalRoutine: неиспользованный формальный параметр
+Driver.c(488): warning C4152: нестандартное расширение; преобразование указателя на функцию в указатель на данные (или наоборот) в выражении
